@@ -1,1 +1,1 @@
-    console.log("Aula de Git");
+console.log("Aula de Git");
